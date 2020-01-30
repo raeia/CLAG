@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+  body {
+    background-image: url("https://image.freepik.com/free-vector/interior-classroom_1308-26552.jpg");
+    background-repeat: no-repeat;
+    }
+    h1 {
+    color: yellow;
+    text-align: center;
+    font-size: 1.5em;
+    font-family: "Arial";
+    margin: 10px 90px 75px;
+    padding: 20px 10px 10px 10px;
+    }
+    .button {
+  background-color: whitesmoke;
+  border: none;
+  color: black;
+  padding: 5px 15px 5px 15px;
+  text-align: center;
+  font-size: 0.96em;
+  margin: 5px 20px 5px 20px;
+  cursor: pointer;
+    }
+    p {
+    color: white;
+    font-family: "Calibri"
+    }
+  </style>
+  </head>
+<body>
+<h1> Rainy day! Stay inside and play with friends. <br> ¡Día de lluvia! Quédense dentro y jueguen con amigos. <br> 下雨天！ 呆在里面和朋友一起玩. </h1>
+  <div>
+    
+  </div>
+  <button class="button" onclick="window.location.href = 'https://github.com/raeia/rainy-lunchtime-games/raw/master/Hangman';">Play Hangman!</button>
+<button class="button button2" onclick="window.location.href = 'https://github.com/raeia/rainy-lunchtime-games/raw/master/RockPaperScissors';">Play Rock Paper Scissors!</button>
+<button class="button button3" onclick="window.location.href = 'https://github.com/raeia/rainy-lunchtime-games/raw/master/GuessingGame';">Play Guessing Game!</button>
+  <p>
+    
+  </p>
+  </body>
+  </html>
